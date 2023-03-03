@@ -1,0 +1,6 @@
+[submodule "Petteia_PL"]
+	path = Petteia_PL
+	url = https://github.com/BernardoFerreira00/Petteia_PL.git
+[submodule "Big_numbers_PFL"]
+	path = Big_numbers_PFL
+	url = https://github.com/BernardoFerreira00/Big_numbers_PFL.git
